@@ -37,7 +37,7 @@ Some of the plots created include bar charts, pie charts, countplots, and boxplo
 
 
 ## View of Netflix Dashboard
-![NETFLIX DASHBORAD](![Netflix Dashboard](https://github.com/iamTANMOY7/Netflix-Exploratory-Data-Analysis-And-Visualization/assets/91433845/008604b7-7975-4230-829e-0b989a343854)
+[Netflix Dashboard](https://github.com/iamTANMOY7/Netflix-Exploratory-Data-Analysis-And-Visualization/assets/91433845/008604b7-7975-4230-829e-0b989a343854)
 
 
 ## Conclusion:
