@@ -37,7 +37,8 @@ Some of the plots created include bar charts, pie charts, countplots, and boxplo
 
 
 ## View of Netflix Dashboard
-![NETFLIX DASHBORAD](https://user-images.githubusercontent.com/115634164/229337906-51cf39c7-d4d0-48a6-99da-6a59744c96b8.png)
+![NETFLIX DASHBORAD](![Netflix Dashboard](https://github.com/iamTANMOY7/Netflix-Exploratory-Data-Analysis-And-Visualization/assets/91433845/008604b7-7975-4230-829e-0b989a343854)
+
 
 ## Conclusion:
 The Netflix EDA project provided insights into the movies and TV shows on Netflix. 
