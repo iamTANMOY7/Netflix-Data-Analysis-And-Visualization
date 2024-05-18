@@ -1,6 +1,6 @@
 # EDA ON NETFLIX DATA:
 
-# ABOUT THE PROJECT:
+## ABOUT THE PROJECT:
 
 ## Introduction:
 
